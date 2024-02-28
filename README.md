@@ -1,2 +1,2 @@
 # Credit-Card-Fraud
-Credit Card Fraud Python Project
+A machine learning project using Python to detect Credit Card Fraud using Decision Trees and Random Forest
